@@ -108,6 +108,7 @@ This project is configured for deployment on TencentEdgeOne CDN platform.
 
 - Select Create Project in Tencent Pages
 - Import Github Repository
+- Paste the .env to Enviroment Variables in Tencent Pages Config
 - Wait for it to be built
 - Set up custom domain (optional)
 
